@@ -2,4 +2,4 @@
 // export const imgUrlBase = "https://www.themoviedb.org/t/p/w220_and_h330_face";
 
 
-export const moviesAPI = "http://localhost:9000/movies";
+export const moviesAPI = "https://movies-backend-fnue.onrender.com/movies";
